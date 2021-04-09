@@ -11,7 +11,7 @@ verticalSeparator: <!--v-->
 
 <aside class="notes">
 ?: Show keyboard shortcuts
-reveal-md.cmd Readme.md --static ./docs && mv docs/** ./ && rm -rf docs
+Disable markdown plugin to export HTML
 </aside>
 
 <!--s-->
